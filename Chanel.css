@@ -1,0 +1,68 @@
+body{
+    background: black;
+    margin: 0;
+}
+
+.title{
+    background: white;
+    margin: 7px 0 0 0;
+}
+
+#nav_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 300px 0 300px;
+    font-size: 8px;
+
+}
+
+#brand_name{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+
+
+.pg1{  
+ 
+    display: flex;
+ 
+    align-items: flex-end;
+    color:white;
+    justify-content: center;
+    background-size: cover;
+    height: 150vh;
+ }
+
+ #first{
+    background-image: url('./img/im_banner.jpg');
+    position: relative;
+ }
+
+.pg1>div{
+    padding-bottom: 60px;
+    text-align: center;
+    font-size: 80px;
+ }
+
+
+ .pg2{  
+    display: flex;
+   
+    align-items: flex-end;
+    color:white;
+    justify-content: center;
+    background-size: cover;
+    height: 150vh;
+    
+   }
+  
+   #second{
+      background-image: url('./img/bottle.jpg');
+     
+   }
+

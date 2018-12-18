@@ -1,0 +1,3 @@
+- nav_bar, 2 page with image (set as background)
+- unable to justify the size of the background picture to cover the whole space; the picture looks too large
+- may put the background picture in a div to solve this problem
